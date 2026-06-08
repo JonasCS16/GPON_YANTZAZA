@@ -1,1 +1,1 @@
-var json_POSTE_METALICO_1 = {"type":"FeatureCollection","name":"POSTE_METALICO_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"ALTURA":"PM07m"},"geometry":{"type":"Point","coordinates":[-78.864261118546068,-3.906238710195715]}}]}
+var json_POSTE_METALICO_1 = {"type":"FeatureCollection","name":"POSTE_METALICO_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

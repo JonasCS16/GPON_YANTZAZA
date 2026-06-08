@@ -1,1 +1,1 @@
-var json_MANGAS_LINEALES_8 = {"type":"FeatureCollection","name":"MANGAS_LINEALES_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
+var json_MANGAS_LINEALES_8 = {"type":"FeatureCollection","name":"MANGAS_LINEALES_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"ETIQUETA":"MG_LINEAL-01"},"geometry":{"type":"Point","coordinates":[-78.870126,-3.892875]}}]}
